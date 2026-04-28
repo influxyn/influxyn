@@ -32,17 +32,34 @@ We combine **technology, creativity, and strategy** to deliver impactful digital
 ---
 
 ## 💻 Tech Stack
-``js
-const INFLUXYN = {
-  frontend: ["HTML", "CSS", "JavaScript", "Vue", "React"],
-  backend: ["Node.js", "Java", "Python"],
-  mobile: ["Flutter", "Android"],
-  database: ["MySQL", "Firebase"],
-  tools: ["Figma", "Git", "Firebase", "Cloud"],
-  focus: "Scalable, Secure & High-Performance Systems"
-};
+
+<p align="center">
+
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,react" />
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,java,python" />
+
+### 📱 Mobile Development
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
+
+### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mysql,firebase" />
+
+### 🛠️ Tools & Technologies
+<img src="https://skillicons.dev/icons?i=figma,git,firebase,vscode" />
+
+</p>
 
 ---
+
+## 🚀 Core Focus
+💜 Scalable Systems  
+⚡ High Performance  
+🔒 Secure Development  
+🎯 Business-Oriented Solutions  
+
 
 ## 🌍 Vision
 To empower businesses with innovative, future-ready digital solutions that drive growth and long-term success.
